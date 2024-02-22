@@ -95,4 +95,20 @@ body {
   .btn-play {
     background-color: #01875f;
   }
+
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 70%;
+  }
+
+  .osc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 15%;
+  }
   
